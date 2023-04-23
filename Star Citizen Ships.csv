@@ -1,0 +1,157 @@
+Fly Ready,Ships/Vehicles,Manufacturer,Role,Size,Crew,Cargo,Purchase Location,aUEC Price,Price,Availability
+Yes,Sabre Raven,Aegis,Interdiction,Small,1,-,-,-,N/A,Promo
+Yes,Avenger Stalker,Aegis,Interdiction,Small,1,-,Lorville,"$882,200.00",$60.00,Permanent
+Yes,Avenger Titan,Aegis,Light Freighter,Small,1,8,Lorville,"$785,600.00",$55.00,Permanent
+Yes,Gladius,Aegis,Light Fighter,Small,1,-,Lorville,"$1,169,900.00",$90.00,Permanent
+,Idris-M,Aegis,Frigate,Capital,8 - 28,831,-,-,"$1,000.00",Limited++
+,Idris-P,Aegis,Frigate,Capital,8 - 28,995,-,-,"$1,500.00",Limited++
+,Javelin,Aegis,Destroyer,Capital,12 - 80,3446,-,-,"$3,000.00",Limited++
+Yes,Avenger Titan Renegade,Aegis,Light Freight,Small,1,8,-,-,$75.00,Limited
+Yes,Avenger Warlock,Aegis,Interdiction,Small,1,-,Lorville,"$1,155,500.00",$85.00,Limited
+Yes,Eclipse,Aegis,Stealth Bomber,Small,1,-,Lorville,"$3,490,000.00",$300.00,Limited
+Yes,Gladius Valiant,Aegis,Light Fighter,Small,1,-,-,-,$110.00,Limited
+Yes,Hammerhead,Aegis,Heavy Gunship,Large,3 - 9,-,Lorville,"$12,459,900.00",$725.00,Limited
+,Nautilus,Aegis,Minelayer,Large,4 - 8,64,-,-,$725.00,Limited
+,Nautilus Solstice,Aegis,Minelayer,Large,4 - 8,64,-,-,$725.00,Limited
+Yes,Reclaimer,Aegis,Heavy Salvage,Capital,4 - 5,180,Lorville,"$15,126,400.00",$400.00,Limited
+Yes,Redeemer,Aegis,Gunship,Large,3 - 5,2,-,-,$325.00,Limited
+,Retaliator Base,Aegis,Heavy Bomber,Large,4 - 7,-,-,-,$150.00,Limited
+Yes,Retaliator Bomber,Aegis,Heavy Bomber,Large,4 - 7,-,Lorville,"$4,031,700.00",$275.00,Limited
+Yes,Sabre,Aegis,Stealth Fighter,Small,1,-,Lorville,"$2,183,300.00",$170.00,Limited
+Yes,Sabre Comet,Aegis,Stealth Fighter,Small,1,-,-,-,$185.00,Limited
+Yes,Vanguard Harbinger,Aegis,Bomber,Medium,2,-,Lorville,"$2,050,500.00",$290.00,Limited
+Yes,Vanguard Hoplite,Aegis,Dropship,Medium,2,-,Lorville,"$3,104,200.00",$235.00,Limited
+Yes,Vanguard Sentinel,Aegis,Electronic Warfare,Medium,2,-,Lorville,"$2,012,200.00",$275.00,Limited
+Yes,Vanguard Warden,Aegis,Heavy Fighter,Medium,2,-,Lorville,"$3,387,800.00",$260.00,Limited
+,Vulcan,Aegis,Medium Repair/Refuel,Medium,1 - 3,12,-,-,$200.00,Limited
+Yes,Hammerhead Best In Show,Aegis,Heavy Gunship,Large,3 - 9,-,-,-,$725.00,IAE 2949
+Yes,Reclaimer Best In Show,Aegis,Heavy Salvage,Capital,4 - 5,180,-,-,$400.00,IAE 2949
+Yes,Pirate Gladius,Aegis,Light Fighter,Small,1,-,-,-,$110.00,*Limited
+Yes,F7C-M Super Hornet Heartseeker,Anvil,Medium Fighter,Small,1 - 2,-,-,-,$195.00,StValentin
+Yes,Arrow,Anvil,Light Fighter,Small,1,-,Area18,"$972,300.00",$75.00,Permanent
+Yes,F7C Hornet,Anvil,Medium Fighter,Small,1,2,Area18,"$1,492,700.00",$110.00,Permanent
+Yes,F7C-R Hornet Tracker,Anvil,Pathfinder,Small,1,-,Area18,"$1,832,100.00",$140.00,Permanent
+Yes,F7C-S Hornet Ghost,Anvil,Stealth Fighter,Small,1,-,Area18,"$1,654,100.00",$125.00,Permanent
+Yes,C8X Pisces Expedition,Anvil,Exploration,Snub,1 - 3,4,Area18,"$406,000.00",$45.00,Permanent
+Yes,Carrack Expedition,Anvil,Expedition,Large,4 - 6,456,-,-,$625.00,Pack UEE 2950
+Yes,Carrack,Anvil,Expedition,Large,4 - 6,456,Area18,"$26,657,500.00",$600.00,Limited
+,Crucible,Anvil,Heavy Repair,Large,3 - 8,230,-,-,$350.00,Limited
+Yes,F7C Hornet Wildfire,Anvil,Medium Fighter,Small,1,-,-,-,$175.00,Limited
+Yes,F7C-M Super Hornet,Anvil,Medium Fighter,Small,1 - 2,-,Area18,"$2,132,600.00",$180.00,Limited
+Yes,Gladiator,Anvil,Light Bomber,Small,1 - 2,-,Area18,"$1,954,500.00",$165.00,Limited
+Yes,Hawk,Anvil,Light Fighter,Small,1,-,Area18,"$1,284,400.00",$100.00,Limited
+Yes,Hurricane,Anvil,Heavy Fighter,Small,2,-,Area18,"$1,218,300.00",$210.00,Limited
+,Legionnaire,Anvil,Boarding,Small,1,-,-,-,$120.00,Limited
+,Liberator,Anvil,Light Transporter,Large,1 - 2,400,-,-,$575.00,Limited
+Yes,Pisces C8R Rescue,Anvil,Medical,Snub,1 - 2,-,-,-,$65.00,Limited
+Yes,Terrapin,Anvil,Scout,Small,1 - 2,-,Area18,"$2,568,100.00",$220.00,Limited
+Yes,Valkyrie,Anvil,Heavy Dropship,Large,1 - 5,30,Area18,"$4,454,400.00",$375.00,Limited
+,F8C Lightning Executive-Edition,Anvil,Heavy Fighter,Small,1,-,-,-,N/A,Concierge 15k
+,F8C Lightning,Anvil,Heavy Fighter,Small,1,-,-,-,N/A,Concierge 10k
+Yes,C8 Pisces,Anvil,Pathfinder,Snub,1 - 3,4,-,-,N/A,Carrack
+Yes,Khartu-Al,AopoA,Light Fighter,Medium,1,-,Area18,"$2,113,900.00",$170.00,Limited
+,San'tok.yāi,AopoA,Light Fighter,Small,1,-,-,-,$220.00,Limited
+Yes,MOLE Talus,ARGO,"Mining, Prospecting",Medium,2 - 4,96,-,-,$315.00,Warbond
+Yes,MOLE,ARGO,"Mining, Prospecting",Medium,2 - 4,96,Lorville,"$5,130,500.00",$315.00,Permanent
+Yes,MOLE Carbon,ARGO,"Mining, Prospecting",Medium,2 - 4,96,-,-,$315.00,Limited
+Yes,MPUV Cargo,ARGO,Light Freight,Snub,1,2,Lorville,"$224,200.00",$35.00,Limited
+Yes,MPUV Personnel,ARGO,Passenger,Snub,1,2,Lorville,"$233,000.00",$40.00,Limited
+Yes,RAFT,ARGO,Freight,Medium,1 - 2,96,Lorville/Hurston,"$1,853,000.00",$125.00,Limited
+,SRV,ARGO,Tugging,Small,1,10,-,-,$150.00,Limited
+Yes,Defender,Banu,Light Fighter,Small,1 - 2,-,Area18,"$2,781,000.00",$220.00,Limited
+,Merchantman,Banu,Heavy Freight,Capital,4 - 8,2800,-,-,$650.00,Limited
+Yes,Mustang Omega,CNOU,Racing,Small,1,-,-,-,$55.00,Promo
+Yes,Mustang Alpha,CNOU,Light Freighter,Small,1,4,Lorville,"$251,400.00",$30.00,Permanent
+Yes,Mustang Beta,CNOU,Pathfinder,Small,1,-,Lorville,"$404,000.00",$40.00,Permanent
+Yes,Mustang Gamma,CNOU,Racing,Small,1,-,Area18,"$627,500.00",$55.00,Permanent
+Yes,Nomad,CNOU,Small Freighter,Small,1,24,Lorville,"$952,800.00",$80.00,Permanent
+,Pioneer,CNOU,Heavy Construction,Capital,4 - 8,600,-,-,$850.00,Limited++
+Yes,Mustang Delta,CNOU,Light Fighter,Small,1,-,Area18,"$763,600.00",$65.00,Limited
+Yes,Mustang Alpha Vindicator,CNOU,Light Freighter,Small,1,4,-,-,$30.00,Event
+Yes,Ares Star Fighter Inferno,Crusader,Heavy Fighter,Medium,1,-,-,-,$250.00,Limited
+Yes,Ares Star Fighter Ion,Crusader,Heavy Fighter,Medium,1,-,Orison,"$2,859,000.00",$250.00,Limited
+,Genesis Starliner,Crusader,Large Passenger,Large,2 - 8,300,-,-,$400.00,Limited
+Yes,A2 Hercules Starlifter,Crusader,"Heavy Bomber, Military Transport",Large,1 - 8,216,-,-,$750.00,Limited
+Yes,C2 Hercules Starlifter,Crusader,Transport,Large,1 - 2,696,Area18/Orison,"$4,925,500.00",$400.00,Limited
+Yes,M2 Hercules Starlifter,Crusader,Military Transport,Large,1 - 3,522,Lorville,"$5,225,300.00",$520.00,Limited
+Yes,Mercury Star Runner,Crusader,"Medium Freight, Data",Large,2 - 3,114,Orison,"$4,912,500.00",$260.00,Limited
+Yes,Cutlass Black,Drake,"Medium Freighter, Medium Fighter",Medium,1 - 2,46,Lorville,"$1,385,300.00",$100.00,Permanent
+Yes,Cutlass Red,Drake,Medical,Medium,2,12,Lorville,"$1,810,500.00",$135.00,Permanent
+,Kraken,Drake,Support,Capital,10,3792,-,-,"$1,650.00",Limited++
+,Kraken Privateer,Drake,Light Carrier,Capital,10,768,-,-,"$2,000.00",Limited++
+Yes,Buccaneer,Drake,Interdiction,Small,1,-,Lorville,"$1,410,100.00",$110.00,Limited
+Yes,Caterpillar,Drake,Heavy Freight,Large,2 - 4,576,Lorville,"$4,686,600.00",$330.00,Limited
+Yes,Corsair,Drake,Exploration,Large,2 - 4,72,-,-,$250.00,Limited
+Yes,Cutlass Blue,Drake,Interdiction,Medium,2,12,Lorville,"$2,493,500.00",$175.00,Limited
+Yes,Cutlass Steel,Drake,Dropship,Medium,1 - 2,-,-,-,$235.00,Limited
+Yes,Cutter,Drake,Light Freighter,Small,1,4,-,-,$45.00,Limited
+Yes,Herald,Drake,Medium Data,Small,1,-,Lorville,"$1,181,100.00",$85.00,Limited
+Yes,Vulture,Drake,Light Salvage,Small,1,12,-,-,$175.00,Limited
+Yes,Caterpillar Best In Show Edition,Drake,Heavy freight,Large,2 - 4,576,-,-,$330.00,IAE 2949
+Yes,Cutlass Black Best In Show Edition,Drake,"Medium Freighter, Medium Fighter",Medium,1 - 2,46,-,-,$100.00,IAE 2949
+Yes,Caterpillar Pirate Edition,Drake,Heavy freight,Large,2 - 4,576,-,-,$330.00,*Limited
+Yes,Scythe,Esperia,Medium Fighter,Small,1,-,-,-,$300.00,Limited++
+Yes,Blade,Esperia,Light Fighter,Small,1,-,Area18,"$3,370,600.00",$275.00,Limited
+Yes,Prowler,Esperia,Dropship,Medium,2,-,Area18,"$4,248,200.00",$440.00,Limited
+Yes,Talon,Esperia,Light Fighter,Snub,1,-,Area18,"$1,854,500.00",$115.00,Limited
+Yes,Talon Shrike,Esperia,Light Fighter,Small,1,-,Area18,"$2,259,200.00",$115.00,Limited
+Yes,Glaive,Esperia,Medium Fighter,Medium,1,-,-,-,$350.00,*Limited
+,Railen,Gatac,Cargo,Large,1 - 4,320,-,-,$225.00,Limited
+Yes,P-72 Archimedes Emerald,Kruger,Racing,Snub,1,-,-,-,$40.00,StPatrick
+Yes,P-52 Merlin,Kruger,Fighter,Snub,1,-,Area18,"$135,500.00",$25.00,Limited
+Yes,P-72 Archimedes,Kruger,Racing,Snub,1,-,-,-,$35.00,Limited
+Yes,Freelancer,MISC,Medium Freight,Medium,2 - 4,66,Lorville,"$1,697,600.00",$110.00,Permanent
+Yes,Freelancer DUR,MISC,Expedition,Medium,2 - 4,36,Lorville,"$1,967,600.00",$135.00,Permanent
+Yes,Freelancer Max,MISC,Heavy Freight,Medium,2 - 4,120,Lorville,"$2,181,500.00",$150.00,Permanent
+Yes,Prospector,MISC,"Mining, Prospecting",Small,1,32,Lorville,"$2,061,000.00",$155.00,Permanent
+Yes,Reliant Kore,MISC,Light Freight,Medium,1 - 2,6,Lorville,"$744,700.00",$65.00,Permanent
+,Hull E,MISC,Heavy Freight,Capital,4 - 5,98304,-,-,$750.00,Limited++
+,Endeavor,MISC,Heavy Science,Capital,3 - 5,500,-,-,$350.00,Limited
+,Expanse,MISC,Refinery,Medium,1,128,-,-,$150.00,Limited
+Yes,Freelancer MIS,MISC,Gunship,Medium,2 - 4,36,Lorville,"$2,537,800.00",$175.00,Limited
+Yes,Hull A,MISC,Medium Freight,Small,1,64,-,-,$90.00,Limited
+,Hull B,MISC,Heavy Freight,Medium,1,384,-,-,$140.00,Limited
+,Hull C,MISC,Heavy Freight,Large,2 - 4,4608,-,-,$350.00,Limited
+,Hull D,MISC,Heavy Freight,Capital,3 - 5,20736,-,-,$450.00,Limited
+,Odyssey,MISC,Expedition,Large,4 - 6,252,-,-,$700.00,Limited
+Yes,Razor,MISC,Racing,Small,1,-,Lorville,"$1,761,200.00",$145.00,Limited
+Yes,Razor EX,MISC,Stealth,Small,1,-,Area18/Lorville,"$1,878,800.00",$155.00,Limited
+Yes,Razor LX,MISC,"Racing, Luxury",Small,1,-,Area18/Lorville,"$1,823,800.00",$150.00,Limited
+Yes,Reliant Mako,MISC,Reporting,Small,2,-,Lorville,"$780,000.00",$95.00,Limited
+Yes,Reliant Sen,MISC,Light Science,Small,2,-,Lorville,"$840,000.00",$85.00,Limited
+Yes,Reliant Tana,MISC,Light Fighter,Small,1 - 2,1,Lorville,"$870,000.00",$75.00,Limited
+Yes,Starfarer,MISC,Heavy Refuel,Large,4 - 6,291,Lorville,"$6,651,500.00",$300.00,Limited
+Yes,Starfarer Gemini,MISC,Heavy Refuel,Large,4 - 6,291,Lorville,"$6,191,500.00",$340.00,Limited
+Yes,100i,Origin,Touring,Small,1,2,Area18/Lorville,"$654,000.00",$50.00,Permanent
+Yes,125a,Origin,Light Fighter,Small,1,2,Lorville,"$791,000.00",$60.00,Permanent
+Yes,135c,Origin,Light Freighter,Small,1,6,Area18,"$839,000.00",$65.00,Permanent
+Yes,300i,Origin,Touring,Small,1,8,Area18,"$767,200.00",$60.00,Permanent
+Yes,315p,Origin,Pathfinder,Small,1,12,Area18,"$882,600.00",$65.00,Permanent
+Yes,325a,Origin,Interdiction interception,Small,1,4,Area18,"$944,200.00",$70.00,Permanent
+Yes,890 Jump,Origin,Touring,Capital,3 - 5,32,Area18/Lorville,"$32,294,500.00",$950.00,Limited++
+Yes,350r,Origin,Racing,Small,1,4,Area18,"$1,602,100.00",$125.00,Limited
+Yes,400i,Origin,Pathfinder,Large,1 - 3,42,-,-,$250.00,Limited
+Yes,600i Explorer,Origin,Expedition,Large,2 - 5,40,Area18,"$9,475,100.00",$475.00,Limited
+Yes,600i Touring,Origin,Touring,Large,3 - 5,16,Area18,"$9,894,000.00",$435.00,Limited
+Yes,85x,Origin,Touring,Snub,1 - 2,-,Lorville,"$574,500.00",$50.00,Limited
+Yes,M50,Origin,Racing,Small,1,-,Area18/Lorville,"$1,193,800.00",$100.00,Limited
+Yes,600i Executive-Edition,Origin,"Touring, Expedition",Large,3 - 5,40,-,-,N/A,Concierge 25k
+Yes,Constellation Phoenix Emerald,RSI,Touring,Large,3 - 4,80,-,-,$350.00,StPatrick++
+Yes,Aurora CL,RSI,Light Freighter,Small,1,6,Lorville,"$487,600.00",$45.00,Permanent
+Yes,Aurora ES,RSI,Pathfinder,Small,1,3,Lorville,"$124,100.00",$20.00,Permanent
+Yes,Aurora LN,RSI,Light Fighter,Small,1,3,Lorville,"$338,400.00",$40.00,Permanent
+Yes,Aurora MR,RSI,Light Fighter,Small,1,3,Lorville,"$184,900.00",$30.00,Permanent
+Yes,Constellation Andromeda,RSI,"Medium Freight, Gunship",Large,3 - 4,96,Lorville,"$3,548,000.00",$240.00,Permanent
+Yes,Constellation Aquila,RSI,Expedition,Large,3 - 4,96,Lorville,"$4,926,700.00",$310.00,Permanent
+Yes,Constellation Taurus,RSI,Medium Freight,Large,3 - 4,174,Lorville,"$3,256,400.00",$190.00,Permanent
+Yes,Mantis,RSI,"Military, Stealth",Small,1,-,Lorville,"$1,230,000.00",$150.00,Permanent
+Yes,Constellation Phoenix,RSI,Touring,Large,3 - 4,80,Lorville,"$5,658,800.00",$350.00,Limited++
+,Apollo Triage,RSI,Medical,Large,2,28,-,-,$250.00,Limited
+Yes,Aurora LX,RSI,Pathfinder,Small,1,3,Lorville,"$245,500.00",$35.00,Limited
+,Galaxy,RSI,Modular,Large ,1 - 6,64,-,-,$380.00,Limited
+,Orion,RSI,Heavy Mining,Capital,4 - 7,384,-,-,$575.00,Limited
+,Perseus,RSI,Heavy Gunship,Sub-capital,6,50,-,-,$675.00,Limited
+,Polaris,RSI,Corvette,Capital,6 - 14,216,-,-,$750.00,Limited
+Yes,Scorpius,RSI,Heavy Fighter,Small,1 - 2,-,-,-,$240.00,Limited
+Yes,Scorpius Antares,RSI,Heavy Fighter,Small,1 - 2,-,-,-,$230.00,Limited
+,Apollo Medivac,RSI,Medical,Large,2,28,-,-,$275.00,*Limited
